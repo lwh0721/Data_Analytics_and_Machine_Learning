@@ -1,4 +1,4 @@
-The Projects of foundations of Data Analytics and Machine Learning.
+The Projects of foundations of Data Analytics and Machine Learning (2022 Fall).
 
 **Project 1**: KNN, CV, Decision Tree;
 
