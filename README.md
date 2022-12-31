@@ -1,4 +1,4 @@
-# APS-1070-Foundations-of-Data-Analytics-and-Machine-Learning
+Foundations of Data Analytics and ML
 The Projects of fundamental ML.
 
 **Project 1**: KNN, CV, Decision Tree;
