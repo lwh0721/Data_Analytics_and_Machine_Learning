@@ -1,6 +1,4 @@
-Foundations of Data Analytics and ML
-
-The Projects of fundamental ML.
+The Projects of foundations of Data Analytics and Machine Learning.
 
 **Project 1**: KNN, CV, Decision Tree;
 
